@@ -29,7 +29,7 @@
           "type": "countdown",
           "settings": {
             "top_message_text": "Limited-time Offer!",
-            "annou_countdown": "Dec 31,2025 18:00:00",
+            "annou_countdown": "Jan 31, 2025 18:00:00",
             "color_countdown_text": "#06142e",
             "border_color_countdown": "#f7f8fa",
             "bg_color_countdown": "#f7f8fa"
