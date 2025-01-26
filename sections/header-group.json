@@ -135,6 +135,7 @@
             "item": "Catalog",
             "column": 3,
             "show_banner_1": false,
+            "banner_1": "shopify://shop_images/7180SYCzkQL._AC_UY1000.jpg",
             "banner_url_1": "",
             "show_product": false,
             "product_title": "Featured Products",
