@@ -230,10 +230,11 @@
             "item": "new in",
             "column": 3,
             "show_banner_1": true,
+            "banner_1": "{{ block.settings.product_collection.featured_image }}",
             "banner_url_1": "shopify://collections/blazero",
             "show_product": true,
             "product_title": "Featured Products",
-            "product_collection": "naminos-dementus-a-dincidunto-5"
+            "product_collection": "leather-anchor"
           }
         },
         "0e4cbbf3-fe5e-4e10-a837-c7651f114767": {
