@@ -129,7 +129,6 @@
       "blocks": {
         "54786c97-e881-45f5-a30a-6fdb552a963e": {
           "type": "main_menu",
-          "disabled": true,
           "settings": {
             "menu": "main-menu",
             "menu_top_spacing": 11,
