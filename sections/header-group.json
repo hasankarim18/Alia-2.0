@@ -97,7 +97,7 @@
         "04e85927-4a9b-4543-93b7-cf1b32370bd4": {
           "type": "group",
           "settings": {
-            "show_cart": true,
+            "show_cart": false,
             "cart_color": "#323232",
             "cart_color_item": "#323232",
             "cart_bg_item": "#ffe5e8",
@@ -131,6 +131,8 @@
           "type": "logo",
           "settings": {
             "logo_position": "sticky_menu",
+            "logo": "shopify://shop_images/images_2.jpg",
+            "logo_transparent": "shopify://shop_images/images_2.jpg",
             "logo_width": 90,
             "logo_width_fixed": 55,
             "logo_text": "",
@@ -147,7 +149,7 @@
             "menu_top_spacing": 11,
             "menu_bottom_spacing": 12,
             "grid_gap_menu_item": 20,
-            "alignment": "left",
+            "alignment": "center",
             "bg_mega_menu": "#ffffff",
             "bg_mega_menu_gradient": "",
             "lv_1_color": "#ffffff",
@@ -187,9 +189,9 @@
           "settings": {
             "show_language_currency": false,
             "show_search": false,
-            "show_customer": false,
+            "show_customer": true,
             "show_wishlist": false,
-            "show_cart": false,
+            "show_cart": true,
             "text_font_size": 14,
             "show_language_currency_sticky": false,
             "show_search_sticky": true,
