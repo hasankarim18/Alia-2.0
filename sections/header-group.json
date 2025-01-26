@@ -172,7 +172,7 @@
         "megamenu_style_1_eKW9dA": {
           "type": "megamenu_style_1",
           "settings": {
-            "layout_block": "custom_width",
+            "layout_block": "full",
             "header_custom_width_size": 1200,
             "item": "Catalog",
             "column": 3,
