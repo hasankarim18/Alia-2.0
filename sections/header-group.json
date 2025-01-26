@@ -226,13 +226,16 @@
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
-            "item": "trend",
+            "item": "Collection",
             "column": 3,
             "show_banner_1": true,
+            "banner_1": "shopify://shop_images/stock-vector-summer-vector-set-summer-element-collection-summer-holiday-beach-cartoon-flat-vector-isolated-on-2447867143.jpg",
             "banner_url_1": "shopify://collections/congue",
             "show_banner_2": true,
+            "banner_2": "shopify://shop_images/stock-photo-interior-of-living-room-with-green-houseplants-and-sofas-2290526749.jpg",
             "banner_url_2": "shopify://collections/cosmopolis",
             "show_banner_3": true,
+            "banner_3": "shopify://shop_images/istockphoto-1933376234-1024x1024.jpg",
             "banner_url_3": "shopify://collections/cosmopolitan"
           }
         },
