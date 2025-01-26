@@ -127,6 +127,20 @@
     "9c03747e-b054-4db8-8194-5a35c71f82ca": {
       "type": "header-navigation-plain",
       "blocks": {
+        "megamenu_style_1_9fMCdh": {
+          "type": "megamenu_style_1",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "item": "Catalog",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_product": false,
+            "product_title": "Featured Products",
+            "product_collection": "black-leather-bag"
+          }
+        },
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-0": {
           "type": "logo",
           "settings": {
@@ -323,6 +337,7 @@
         }
       },
       "block_order": [
+        "megamenu_style_1_9fMCdh",
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-0",
         "54786c97-e881-45f5-a30a-6fdb552a963e",
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-2",
